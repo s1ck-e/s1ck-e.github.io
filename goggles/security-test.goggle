@@ -1,0 +1,7 @@
+! name: Brave Goggle Security Test 73f9
+! description: Authorized security research goggle for Brave HackerOne testing
+! public: true
+! author: s1ck-e
+! avatar: #9244e0
+
+$boost,site=example.com
