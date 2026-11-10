@@ -1,0 +1,7 @@
+! name: XSS74AB <img src=x onerror=window.__xss=1>
+! description: Desc74AB <img src=x onerror=window.__xss=2>
+! public: true
+! author: XSS74AB <svg/onload=window.__xss=3>
+! avatar: #9244e0
+
+$boost=1,site=example.com
